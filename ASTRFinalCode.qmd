@@ -1,0 +1,117 @@
+---
+title: "My Night Sky Observations"
+subtitle: "Brooke Comstock"
+format: revealjs
+editor: source
+---
+
+## My Night Sky Observations
+
+Over the course of this past quarter, I observed and drew the stars that I observed from my backyard in San Luis Obispo. I observed and recorded my findings a total of 16 times, all at 6:30pm, facing East/North East. I used my favorite Eucalyptus tree, and another nearby tree top as my anchors. They both helped me track movement, while also assisting my ability to properly scale as I drew.
+
+## My Drawings
+
+I am not an artist, but had a fun time recording my observations in this medium, and knew I would enjoy the project much more if I challenged myself in this way. I definitely struggled with scaling and properly positioning the stars/constellations in relation to each other in the beginning, but made quick progress after my first few attempts.
+
+
+## Examples
+
+- Here are some of my favorite observations.
+  Including my first night, a night when I 
+  saw a rocket, and when I noticed
+  The Lynx shifting.
+- Note: I marked the brightest stars as "*"
+
+![](IMG_8448.jpg){.absolute bottom=50 left=0 width="300" height="300"}
+
+![](IMG_8464.jpg){.absolute bottom=50 right=50 width="300" height="300"}
+![](IMG_8455.jpg){.absolute bottom=50 left=350 width="300" height="300"}
+
+## Changes in Stars and Celestial Objects
+- I noticed numerous changes in my observations throughout the quarter. The main one being the East-to-West shifting of all the      constellations and celestial objects I was recording. From my perspective (facing East), this resulted in all constellations and objects exiting my viewing frame in the upwards and slightly rightward direction, with new objects entering from the left of the horizon.
+- I also noticed that as stars, objects, and constellations moved upwards and out of my frame, they slightly warped and became tilted in various ways.
+
+## East to West Movement
+This phenomenon is due to:
+**Annual Parallax.** In addition to its rotation on its axis from west to east approximately once every 24 hours, the Earth also orbits the Sun in an elliptical path. Because of the Earth's orbital motion around the Sun, the apparent position of stars appears to shift slightly throughout the year. This effect is known as annual parallax. Stars that are farther away appear to move less due to this effect, while nearby stars appear to shift more noticeably.
+
+# We know that stars move from East to West throughout the year, but why the warping?
+
+## Explanation 1
+- I deduced that *some* of this phenomenon could be accounted to atmospheric refraction. When starlight passes through the Earth's atmosphere, it can be refracted or bent due to differences in air density and temperature at different altitudes. This refraction can cause stars and constellations near the horizon to appear slightly warped or distorted, and they may also appear to be tilted.
+
+## Explanation 2
+- I suspect that the constellation warping also likely indicates differences in star distances from earth. Stars that are closer to us will appear to move faster compared to stars that are farther away when observing their apparent motion due to Earth's rotation. This is because closer stars have a larger parallax effect, meaning their apparent positions relative to more distant stars will change more noticeably over time as the Earth orbits the Sun.
+
+## Objects Observed
+- **Betelgeuse:** I was very excited when I realized Betelgeuse was in my viewing frame. It became one of the first objects I would recognize each night due to its red color, indicating its cool temperature and enormity. 
+- Being a supergiant, it was also easy to distinguish from other orange/red stars (like Aldebaran nearby), due to its size and closer proximity to earth.
+- Due to it being closer to Earth than Aldebaran, I noticed a slight close in their distance to eachother over time, due to Betelgeuse having a larger parallax effect and therefore shifting West at a quicker rate from our perspective.
+
+## Objects Observed (cont.)
+
+- **Pleiades**: My all time favorite celestial formation. I love attempting to find all 7 sisters when I see it, though it's quite challenging. I also noted the distinct blue color of this "star nursery", indicating the stars' youth and extremely high temperatures.
+- **Auriga**: Enjoyed following the movement of Auriga in the beginning of my observations, I also noticed the most shape warping when observing Auriga's movement West.
+
+
+## Objects Observed (cont.)
+
+- **Pollux**: Pollux acted as a sort of movement benchmark for me. It was observable throughout all of my observations, and had a clear trajectory in my viewing from from the bottom center to the upper right hand corner. I admired its distinct orange color, as it is a cool, large star.
+- **The Moon**: Though I only observed it twice, I was always excited to see it. It's lack of appearance is due to its orbit being approximately 27.3 days. As it orbits, its position relative to Earth changes continuously. This means that its position in the sky relative to Earth changes over time, as well as its rising and setting times.
+
+
+# Now for my 16 Observations!
+
+##
+- The next 16 slides contain one observation each. I noticed that if you move through the slides quickly, you can clearly see the star movements from East to West! 
+- I particularly noticed the smooth movement of Cancer and Pollux as they moved up, as well as from left to right.
+- Please also note my various notes and comments throughout my observations!
+
+## January 11th
+![](IMG_8448.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## January 14th
+![](IMG_8449.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+
+## January 16th
+![](IMG_8450.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## January 17th
+![](IMG_8451.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## January 24th
+![](IMG_8452.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## January 28th
+![](IMG_8453.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## February 1st
+![](IMG_8455.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## February 5th
+![](IMG_8454.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## February 10th
+![](IMG_8457.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## February 12th
+![](IMG_8458.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## February 19th
+![](IMG_8459.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## February 29th
+![](IMG_8460.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## March 4th
+![](IMG_8461.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## March 5th
+![](IMG_8462.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## March 9th
+![](IMG_8463.jpg){.absolute left=200 left=0 width="500" height="500"}
+
+## March 12th
+![](IMG_8464.jpg){.absolute left=200 left=0 width="500" height="500"}
